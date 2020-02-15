@@ -1,0 +1,462 @@
+
+1월 15, 2019 15:21:34.52 NEW SESSION
+1월 15, 2019 15:21:34.52 
+1월 15, 2019 15:21:34.52 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 15:23:18.63 
+1월 15, 2019 15:23:18.63 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 15:23:37.60 [12044:4760:0115/152337.608:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.60 [12044:4760:0115/152337.608:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.61 [12044:4760:0115/152337.608:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.61 [12044:4760:0115/152337.608:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.61 [12044:4760:0115/152337.608:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.61 [12044:4760:0115/152337.608:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.63 [12044:4760:0115/152337.630:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.63 [12044:4760:0115/152337.630:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.63 [12044:4760:0115/152337.630:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:23:37.63 [12044:4760:0115/152337.630:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 15, 2019 15:24:06.66 
+1월 15, 2019 15:24:06.67 KLIB_SelfTest return : KLR_OK
+
+1월 15, 2019 22:29:17.91 NEW SESSION
+1월 15, 2019 22:29:17.91 
+1월 15, 2019 22:29:17.91 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 22:33:37.56 
+1월 15, 2019 22:33:37.56 KLIB_SelfTest return : KLR_OK
+
+1월 15, 2019 23:11:54.38 NEW SESSION
+1월 15, 2019 23:11:54.38 
+1월 15, 2019 23:11:54.38 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 23:17:31.39 
+1월 15, 2019 23:17:31.39 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 23:19:09.20 [5836:10164:0115/231909.207:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+1월 15, 2019 23:20:19.98 
+1월 15, 2019 23:20:19.99 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 23:20:53.99 
+1월 15, 2019 23:20:53.99 KLIB_SelfTest return : KLR_OK
+1월 15, 2019 23:27:40.01 
+1월 15, 2019 23:27:40.01 KLIB_SelfTest return : KLR_OK
+
+1월 16, 2019 12:27:56.98 NEW SESSION
+1월 16, 2019 12:27:56.98 
+1월 16, 2019 12:27:56.98 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 12:28:12.16 
+1월 16, 2019 12:28:12.16 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:23.06 [4976:9736:0116/123323.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:33:46.70 
+1월 16, 2019 12:33:46.70 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 12:34:20.61 
+1월 16, 2019 12:34:20.61 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 12:40:04.97 
+1월 16, 2019 12:40:04.97 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 12:42:59.72 [4080:4008:0116/124259.727:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.72 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 12:42:59.73 [4080:4008:0116/124259.728:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:34:03.20 
+1월 16, 2019 13:34:03.20 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 13:51:44.97 
+1월 16, 2019 13:51:44.97 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 13:58:11.01 
+1월 16, 2019 13:58:11.01 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 13:58:59.15 
+1월 16, 2019 13:58:59.15 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 13:59:35.14 [17084:11400:0116/135935.148:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.14 [17084:11400:0116/135935.148:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.148:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.148:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.148:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.149:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.149:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.149:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.149:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 13:59:35.15 [17084:11400:0116/135935.149:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 16, 2019 14:00:59.23 
+1월 16, 2019 14:00:59.23 KLIB_SelfTest return : KLR_OK
+
+1월 16, 2019 21:58:46.64 NEW SESSION
+1월 16, 2019 21:58:46.64 
+1월 16, 2019 21:58:46.64 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 22:07:36.17 
+1월 16, 2019 22:07:36.17 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 22:19:17.56 
+1월 16, 2019 22:19:17.56 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:24:16.30 
+1월 16, 2019 23:24:16.30 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:39:45.01 
+1월 16, 2019 23:39:45.01 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:43:03.06 
+1월 16, 2019 23:43:03.06 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:43:21.25 
+1월 16, 2019 23:43:21.25 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:44:44.43 
+1월 16, 2019 23:44:44.43 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:45:05.19 
+1월 16, 2019 23:45:05.19 KLIB_SelfTest return : KLR_OK
+1월 16, 2019 23:55:40.99 
+1월 16, 2019 23:55:40.99 KLIB_SelfTest return : KLR_OK
+
+1월 17, 2019 12:16:57.26 NEW SESSION
+1월 17, 2019 12:16:57.27 
+1월 17, 2019 12:16:57.27 KLIB_SelfTest return : KLR_OK
+1월 17, 2019 12:17:17.57 
+1월 17, 2019 12:17:17.57 KLIB_SelfTest return : KLR_OK
+
+1월 18, 2019 15:18:54.56 NEW SESSION
+1월 18, 2019 15:18:54.56 
+1월 18, 2019 15:18:54.56 KLIB_SelfTest return : KLR_OK
+
+1월 21, 2019 13:26:12.31 NEW SESSION
+1월 21, 2019 13:26:12.32 
+1월 21, 2019 13:26:12.32 KLIB_SelfTest return : KLR_OK
+1월 21, 2019 13:26:36.21 
+1월 21, 2019 13:26:36.21 KLIB_SelfTest return : KLR_OK
+1월 21, 2019 13:27:19.49 
+1월 21, 2019 13:27:19.49 KLIB_SelfTest return : KLR_OK
+1월 21, 2019 14:28:20.03 
+1월 21, 2019 14:28:20.03 KLIB_SelfTest return : KLR_OK
+1월 21, 2019 14:30:33.35 
+1월 21, 2019 14:30:33.35 KLIB_SelfTest return : KLR_OK
+1월 21, 2019 14:32:15.08 
+1월 21, 2019 14:32:15.09 KLIB_SelfTest return : KLR_OK
+
+1월 21, 2019 21:07:01.49 NEW SESSION
+1월 21, 2019 21:07:01.49 
+1월 21, 2019 21:07:01.49 KLIB_SelfTest return : KLR_OK
+1월 21, 2019 21:07:06.36 [11684:3436:0121/210706.364:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.36 [11684:3436:0121/210706.364:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.379:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:06.38 [11684:3436:0121/210706.380:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 21, 2019 21:07:12.45 
+1월 21, 2019 21:07:12.45 KLIB_SelfTest return : KLR_OK
+
+1월 22, 2019 22:42:09.83 NEW SESSION
+1월 22, 2019 22:42:09.83 
+1월 22, 2019 22:42:09.83 KLIB_SelfTest return : KLR_OK
+
+1월 24, 2019 21:26:33.46 NEW SESSION
+1월 24, 2019 21:26:33.46 
+1월 24, 2019 21:26:33.46 KLIB_SelfTest return : KLR_OK
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+1월 24, 2019 21:27:12.69 [9200:8868:0124/212712.690:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+
+1월 30, 2019 22:25:54.18 NEW SESSION
+1월 30, 2019 22:25:54.18 
+1월 30, 2019 22:25:54.18 KLIB_SelfTest return : KLR_OK
+
+2월 12, 2019 21:16:05.98 NEW SESSION
+2월 12, 2019 21:16:05.98 
+2월 12, 2019 21:16:05.98 KLIB_SelfTest return : KLR_OK
+2월 12, 2019 21:18:56.05 [11540:18352:0212/211856.053:ERROR:browser_process_sub_thread.cc(209)] Waited 27 ms for network service
+2월 12, 2019 21:18:56.10 
+2월 12, 2019 21:18:56.10 KLIB_SelfTest return : KLR_OK
+2월 12, 2019 21:21:17.85 [18232:15052:0212/212117.858:ERROR:browser_process_sub_thread.cc(209)] Waited 13 ms for network service
+2월 12, 2019 21:21:17.92 
+2월 12, 2019 21:21:17.92 KLIB_SelfTest return : KLR_OK
+2월 12, 2019 22:32:04.45 [14896:1996:0212/223204.457:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+2월 12, 2019 22:32:04.52 
+2월 12, 2019 22:32:04.52 KLIB_SelfTest return : KLR_OK
+
+7월 18, 2019 23:31:04.45 NEW SESSION
+7월 18, 2019 23:31:04.45 [7544:8348:0718/233104.443:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 18, 2019 23:31:04.66 [7544:16304:0718/233104.668:ERROR:browser_process_sub_thread.cc(221)] Waited 63 ms for network service
+7월 18, 2019 23:31:04.78 
+7월 18, 2019 23:31:04.78 KLIB_SelfTest return : KLR_OK
+7월 18, 2019 23:59:33.48 [6172:8292:0718/235933.481:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 18, 2019 23:59:33.58 [6172:2184:0718/235933.583:ERROR:browser_process_sub_thread.cc(221)] Waited 23 ms for network service
+7월 18, 2019 23:59:33.62 
+7월 18, 2019 23:59:33.62 KLIB_SelfTest return : KLR_OK
+7월 19, 2019 24:00:52.18 [17956:12100:0719/000052.189:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 19, 2019 24:00:52.26 [17956:9344:0719/000052.266:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+7월 19, 2019 24:00:52.31 
+7월 19, 2019 24:00:52.31 KLIB_SelfTest return : KLR_OK
+7월 19, 2019 24:24:20.95 [16304:19864:0719/002420.954:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 19, 2019 24:24:21.03 [16304:15284:0719/002421.030:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+7월 19, 2019 24:24:21.08 
+7월 19, 2019 24:24:21.08 KLIB_SelfTest return : KLR_OK
+
+7월 24, 2019 14:42:05.13 NEW SESSION
+7월 24, 2019 14:42:05.13 [19188:19340:0724/144205.124:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 24, 2019 14:42:05.28 [19188:20496:0724/144205.281:ERROR:browser_process_sub_thread.cc(221)] Waited 34 ms for network service
+7월 24, 2019 14:42:05.33 
+7월 24, 2019 14:42:05.33 KLIB_SelfTest return : KLR_OK
+7월 24, 2019 15:08:17.78 [17460:16216:0724/150817.779:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 24, 2019 15:08:17.89 [17460:11956:0724/150817.895:ERROR:browser_process_sub_thread.cc(221)] Waited 32 ms for network service
+7월 24, 2019 15:08:17.95 
+7월 24, 2019 15:08:17.95 KLIB_SelfTest return : KLR_OK
+7월 24, 2019 15:08:53.10 [18396:21712:0724/150853.104:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+7월 24, 2019 15:08:53.26 [18396:17628:0724/150853.259:ERROR:browser_process_sub_thread.cc(221)] Waited 40 ms for network service
+7월 24, 2019 15:08:53.32 
+7월 24, 2019 15:08:53.32 KLIB_SelfTest return : KLR_OK
+
+8월 01, 2019 17:00:49.43 NEW SESSION
+8월 01, 2019 17:00:49.43 [22920:8552:0801/170049.415:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+8월 01, 2019 17:00:49.55 [22920:1160:0801/170049.557:ERROR:browser_process_sub_thread.cc(221)] Waited 16 ms for network service
+8월 01, 2019 17:00:49.64 
+8월 01, 2019 17:00:49.64 KLIB_SelfTest return : KLR_OK
+
+8월 16, 2019 14:33:31.45 NEW SESSION
+8월 16, 2019 14:33:31.45 [14588:12468:0816/143331.453:ERROR:browser_process_sub_thread.cc(203)] Waited 32 ms for network service
+8월 16, 2019 14:33:31.50 
+8월 16, 2019 14:33:31.50 KLIB_SelfTest return : KLR_OK
+8월 16, 2019 16:20:25.74 [5628:604:0816/162025.742:ERROR:browser_process_sub_thread.cc(203)] Waited 32 ms for network service
+8월 16, 2019 16:20:25.84 
+8월 16, 2019 16:20:25.84 KLIB_SelfTest return : KLR_OK
+
+9월 26, 2019 21:45:05.43 NEW SESSION
+9월 26, 2019 21:45:05.43 [11512:17204:0926/214505.426:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+9월 26, 2019 21:45:33.70 [11512:17204:0926/214533.699:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+9월 26, 2019 21:45:36.09 [11512:10312:0926/214536.097:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-105).
+9월 26, 2019 21:46:18.48 [11512:17204:0926/214618.488:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+9월 26, 2019 21:46:32.15 
+9월 26, 2019 21:46:32.15 KLIB_SelfTest return : KLR_OK
+
+10월 05, 2019 16:17:22.30 NEW SESSION
+10월 05, 2019 16:17:22.30 
+10월 05, 2019 16:17:22.30 KLIB_SelfTest return : KLR_OK
+
+10월 07, 2019 22:26:08.49 NEW SESSION
+10월 07, 2019 22:26:08.49 [10356:14420:1007/222608.491:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 07, 2019 23:38:17.55 [10356:14420:1007/233817.558:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -7
+10월 07, 2019 23:38:18.38 [10356:512:1007/233817.560:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+10월 09, 2019 20:35:27.82 NEW SESSION
+10월 09, 2019 20:35:27.82 [1632:17832:1009/203527.818:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+10월 09, 2019 20:35:51.77 [1632:17832:1009/203551.771:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+10월 09, 2019 20:35:55.87 [1632:8408:1009/203555.873:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-105).
+10월 09, 2019 20:36:49.57 [1632:17832:1009/203649.571:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+10월 09, 2019 20:52:23.99 [1632:17832:1009/205223.993:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 09, 2019 21:15:42.25 [1632:2508:1009/211542.255:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+10월 09, 2019 21:15:42.29 [1632:2508:1009/211542.292:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+10월 09, 2019 21:43:46.55 
+10월 09, 2019 21:43:46.55 KLIB_SelfTest return : KLR_OK
+
+10월 11, 2019 23:05:31.81 NEW SESSION
+10월 11, 2019 23:05:31.81 [23344:24316:1011/230531.812:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 11, 2019 23:43:05.44 [23344:9568:1011/234305.440:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+10월 11, 2019 23:43:05.57 [23344:24316:1011/234305.577:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+10월 11, 2019 23:43:06.36 [23344:9568:1011/234306.369:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+10월 12, 2019 01:49:42.61 
+10월 12, 2019 01:49:42.61 KLIB_SelfTest return : KLR_OK
+
+10월 24, 2019 12:53:01.44 NEW SESSION
+10월 24, 2019 12:53:01.44 
+10월 24, 2019 12:53:01.45 KLIB_SelfTest return : KLR_OK
+
+10월 29, 2019 21:57:25.13 NEW SESSION
+10월 29, 2019 21:57:25.13 [11424:22676:1029/215725.123:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 29, 2019 22:54:21.57 [11424:22676:1029/225421.573:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -109
+10월 29, 2019 22:54:22.35 [11424:22596:1029/225421.577:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 29, 2019 22:54:41.66 [11424:22676:1029/225441.666:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+10월 29, 2019 22:54:43.74 [11424:22596:1029/225443.741:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 29, 2019 22:58:55.06 [11424:22676:1029/225855.063:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 29, 2019 23:28:13.43 [11424:22676:1029/232813.435:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 29, 2019 23:28:14.12 [11424:27628:1029/232814.123:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+10월 31, 2019 24:30:46.44 NEW SESSION
+10월 31, 2019 24:30:46.44 [30312:5752:1031/003046.412:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 31, 2019 01:09:05.51 [30312:5752:1031/010905.515:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -7
+10월 31, 2019 01:09:06.68 [30312:31776:1031/010906.686:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 31, 2019 01:09:06.72 [30312:5752:1031/010906.720:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+10월 31, 2019 01:09:16.44 
+10월 31, 2019 01:09:16.44 KLIB_SelfTest return : KLR_OK
+10월 31, 2019 02:02:56.62 
+10월 31, 2019 02:02:56.62 KLIB_SelfTest return : KLR_OK
+
+11월 01, 2019 10:18:06.45 NEW SESSION
+11월 01, 2019 10:18:06.45 [32764:952:1101/101806.444:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 10:18:33.43 [32764:952:1101/101833.432:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 10:18:36.35 [32764:9908:1101/101836.354:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-105).
+11월 01, 2019 10:19:15.43 [32764:952:1101/101915.434:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 10:20:39.12 [32764:952:1101/102039.122:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 10:23:57.87 [32764:9908:1101/102357.874:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 01, 2019 10:23:59.85 [32764:952:1101/102359.851:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 10:24:21.47 [32764:9908:1101/102421.474:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 01, 2019 10:25:20.93 [32764:9908:1101/102520.936:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 01, 2019 10:26:54.21 [32764:9908:1101/102654.215:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 01, 2019 10:29:13.55 
+11월 01, 2019 10:29:13.55 KLIB_SelfTest return : KLR_OK
+
+11월 01, 2019 11:32:51.93 NEW SESSION
+11월 01, 2019 11:32:51.93 [26648:33080:1101/113251.927:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 11:33:02.85 [26648:19636:1101/113302.855:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 01, 2019 11:33:12.24 [26648:33080:1101/113312.240:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+11월 01, 2019 11:33:14.09 [26648:19636:1101/113314.095:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-105).
+11월 01, 2019 11:33:24.22 
+11월 01, 2019 11:33:24.22 KLIB_SelfTest return : KLR_OK
+
+11월 02, 2019 16:58:11.00 NEW SESSION
+11월 02, 2019 16:58:11.00 
+11월 02, 2019 16:58:11.00 KLIB_SelfTest return : KLR_OK
+
+11월 04, 2019 13:09:38.06 NEW SESSION
+11월 04, 2019 13:09:38.06 
+11월 04, 2019 13:09:38.07 KLIB_SelfTest return : KLR_OK
+
+11월 04, 2019 17:33:38.43 NEW SESSION
+11월 04, 2019 17:33:38.43 
+11월 04, 2019 17:33:38.43 KLIB_SelfTest return : KLR_OK
+
+11월 07, 2019 14:40:12.21 NEW SESSION
+11월 07, 2019 14:40:12.21 
+11월 07, 2019 14:40:12.21 KLIB_SelfTest return : KLR_OK
+
+11월 13, 2019 01:35:55.34 NEW SESSION
+11월 13, 2019 01:35:55.34 
+11월 13, 2019 01:35:55.34 KLIB_SelfTest return : KLR_OK
+
+11월 14, 2019 14:51:00.15 NEW SESSION
+11월 14, 2019 14:51:00.16 
+11월 14, 2019 14:51:00.16 KLIB_SelfTest return : KLR_OK
+
+11월 19, 2019 10:43:56.78 NEW SESSION
+11월 19, 2019 10:43:56.78 
+11월 19, 2019 10:43:56.78 KLIB_SelfTest return : KLR_OK
+
+11월 27, 2019 14:57:13.21 NEW SESSION
+11월 27, 2019 14:57:13.21 
+11월 27, 2019 14:57:13.21 KLIB_SelfTest return : KLR_OK
+
+11월 28, 2019 09:45:15.00 NEW SESSION
+11월 28, 2019 09:45:15.00 
+11월 28, 2019 09:45:15.00 KLIB_SelfTest return : KLR_OK
+
+11월 28, 2019 13:35:04.87 NEW SESSION
+11월 28, 2019 13:35:04.87 
+11월 28, 2019 13:35:04.87 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:37:46.35 
+11월 28, 2019 13:37:46.35 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:39:17.66 
+11월 28, 2019 13:39:17.66 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:46:33.31 
+11월 28, 2019 13:46:33.31 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:47:44.05 
+11월 28, 2019 13:47:44.05 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:48:44.05 
+11월 28, 2019 13:48:44.05 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:50:43.99 
+11월 28, 2019 13:50:43.99 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:54:22.46 
+11월 28, 2019 13:54:22.46 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:56:21.72 
+11월 28, 2019 13:56:21.72 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 13:56:57.42 
+11월 28, 2019 13:56:57.42 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 14:11:35.59 
+11월 28, 2019 14:11:35.59 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 14:12:25.32 
+11월 28, 2019 14:12:25.32 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 14:13:31.84 
+11월 28, 2019 14:13:31.84 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 14:48:55.61 [26280:15252:1128/144855.617:ERROR:socket_stream.cc(218)] Closing stream with result -2
+11월 28, 2019 15:00:09.52 [26280:15252:1128/150009.523:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 28, 2019 15:00:16.86 [26280:15252:1128/150016.860:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+
+11월 28, 2019 16:57:53.34 NEW SESSION
+11월 28, 2019 16:57:53.34 
+11월 28, 2019 16:57:53.34 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 16:59:10.35 
+11월 28, 2019 16:59:10.35 KLIB_SelfTest return : KLR_OK
+11월 28, 2019 17:03:15.41 
+11월 28, 2019 17:03:15.41 KLIB_SelfTest return : KLR_OK
+
+11월 28, 2019 23:03:47.58 NEW SESSION
+11월 28, 2019 23:03:47.58 [9408:24920:1128/230347.578:ERROR:socket_stream.cc(218)] Closing stream with result -2
+11월 28, 2019 23:13:54.59 [9408:24920:1128/231354.599:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+11월 28, 2019 23:13:55.07 [9408:14576:1128/231355.072:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+11월 30, 2019 15:10:12.47 NEW SESSION
+11월 30, 2019 15:10:12.47 
+11월 30, 2019 15:10:12.47 KLIB_SelfTest return : KLR_OK
+
+12월 02, 2019 24:46:28.61 NEW SESSION
+12월 02, 2019 24:46:28.61 
+12월 02, 2019 24:46:28.61 KLIB_SelfTest return : KLR_OK
+
+12월 02, 2019 01:19:55.28 NEW SESSION
+12월 02, 2019 01:19:55.29 
+12월 02, 2019 01:19:55.29 KLIB_SelfTest return : KLR_OK
+
+12월 03, 2019 10:57:52.70 NEW SESSION
+12월 03, 2019 10:57:52.70 
+12월 03, 2019 10:57:52.70 KLIB_SelfTest return : KLR_OK
+
+12월 03, 2019 11:02:08.49 NEW SESSION
+12월 03, 2019 11:02:08.49 
+12월 03, 2019 11:02:08.49 KLIB_SelfTest return : KLR_OK
+12월 03, 2019 11:40:23.52 
+12월 03, 2019 11:40:23.52 KLIB_SelfTest return : KLR_OK
+
+12월 04, 2019 11:33:15.59 NEW SESSION
+12월 04, 2019 11:33:15.59 
+12월 04, 2019 11:33:15.59 KLIB_SelfTest return : KLR_OK
+
+12월 04, 2019 14:11:19.48 NEW SESSION
+12월 04, 2019 14:11:19.48 [32500:13736:1204/141119.482:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+12월 04, 2019 15:45:08.16 NEW SESSION
+12월 04, 2019 15:45:08.16 
+12월 04, 2019 15:45:08.16 KLIB_SelfTest return : KLR_OK
+
+12월 04, 2019 22:31:37.30 NEW SESSION
+12월 04, 2019 22:31:37.30 [19756:23632:1204/223137.288:ERROR:socket_stream.cc(218)] Closing stream with result -2
+12월 04, 2019 23:27:49.39 [19756:23632:1204/232749.393:ERROR:socket_stream.cc(218)] Closing stream with result -2
+12월 04, 2019 23:27:50.21 [19756:16572:1204/232750.215:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+12월 05, 2019 24:03:19.39 [19756:23632:1205/000319.392:ERROR:socket_stream.cc(218)] Closing stream with result -2
+12월 05, 2019 24:07:29.50 [19756:23632:1205/000729.505:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+12월 05, 2019 24:39:47.69 [19756:16572:1205/003947.689:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+12월 05, 2019 24:39:52.01 [19756:23632:1205/003952.018:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+12월 05, 2019 24:48:45.37 
+12월 05, 2019 24:48:45.37 KLIB_SelfTest return : KLR_OK
+
+12월 06, 2019 19:14:05.94 NEW SESSION
+12월 06, 2019 19:14:05.94 [22548:18044:1206/191405.939:ERROR:socket_stream.cc(218)] Closing stream with result -2
+12월 06, 2019 19:32:25.18 [22548:18044:1206/193225.184:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+12월 06, 2019 20:33:50.82 
+12월 06, 2019 20:33:50.82 KLIB_SelfTest return : KLR_OK
+
+12월 10, 2019 11:03:18.01 NEW SESSION
+12월 10, 2019 11:03:18.01 [36696:16180:1210/110317.988:ERROR:socket_stream.cc(218)] Closing stream with result -2
+12월 10, 2019 11:29:37.55 [36696:16180:1210/112937.551:ERROR:socket_stream.cc(218)] Closing stream with result -2
+12월 10, 2019 12:01:26.77 
+12월 10, 2019 12:01:26.77 KLIB_SelfTest return : KLR_OK
+
+12월 10, 2019 15:00:02.24 NEW SESSION
+12월 10, 2019 15:00:02.24 
+12월 10, 2019 15:00:02.24 KLIB_SelfTest return : KLR_OK
+
+12월 10, 2019 21:46:44.20 NEW SESSION
+12월 10, 2019 21:46:44.20 
+12월 10, 2019 21:46:44.20 KLIB_SelfTest return : KLR_OK
+
+12월 11, 2019 10:22:48.92 NEW SESSION
+12월 11, 2019 10:22:48.92 
+12월 11, 2019 10:22:48.92 KLIB_SelfTest return : KLR_OK

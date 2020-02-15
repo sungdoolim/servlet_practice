@@ -1,0 +1,17 @@
+<%@page import="lab.web.domain.MemberVO" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>회원가입 성공 여부</title>
+</head>
+<body>
+
+<% MemberVO member = (MemberVO)request.getAttribute("member");%>
+<h1>${message}</h1>
+<%=member.toString() %>
+</body>
+</html>
