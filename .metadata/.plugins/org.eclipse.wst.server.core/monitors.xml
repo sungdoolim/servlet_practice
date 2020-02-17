@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <monitors>
-  <monitor port="14545" portId="0" serverId="Tomcat v8.5 Server at localhost (2)" started="true"/>
+  <monitor port="14545" portId="0" serverId="Tomcat v8.5 Server at localhost (2)" started="false"/>
 </monitors>
