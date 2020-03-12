@@ -460,3 +460,10 @@
 12월 11, 2019 10:22:48.92 NEW SESSION
 12월 11, 2019 10:22:48.92 
 12월 11, 2019 10:22:48.92 KLIB_SelfTest return : KLR_OK
+
+2월 18, 2020 17:21:49.87 NEW SESSION
+2월 18, 2020 17:21:49.87 [6588:6908:0218/172149.871:ERROR:socket_stream.cc(218)] Closing stream with result -2
+2월 18, 2020 17:31:31.96 [6588:6908:0218/173131.961:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+2월 18, 2020 17:31:38.26 [6588:6908:0218/173138.268:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+2월 18, 2020 18:19:58.92 
+2월 18, 2020 18:19:58.94 KLIB_SelfTest return : KLR_OK
