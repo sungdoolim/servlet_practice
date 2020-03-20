@@ -8,13 +8,13 @@
 		<item value="943" key="dialogHeight"/>
 		<item value="1162" key="dialogWidth"/>
 		<list key="textEntries">
-			<item value="3"/>
 			<item value="2"/>
+			<item value="3"/>
 			<item value="1"/>
 		</list>
 		<list key="orderedElements">
-			<item value="org.eclipse.ui.console.ConsoleView"/>
 			<item value="org.eclipse.wst.server.ui.ServersView"/>
+			<item value="org.eclipse.ui.console.ConsoleView"/>
 			<item value="com.springsource.sts.ide.perspective"/>
 		</list>
 		<list key="orderedProviders">
@@ -23,18 +23,21 @@
 			<item value="org.eclipse.ui.perspectives"/>
 		</list>
 		<list key="textArray">
+			<item value="ser"/>
+			<item value="server"/>
 			<item value="consol"/>
 			<item value="con"/>
 			<item value="co"/>
-			<item value="ser"/>
-			<item value="server"/>
 			<item value="spring"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.wst.web.ui"/>
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+			<item value="org.eclipse.ui.Examples"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
