@@ -1,4 +1,4 @@
-//2015112120 임성두
+
 /*
 2-1)
 GreedyBetterChange ( M, c, d ) //M은 맞춰야하는 수, c는 M을 구성하기 위한 수가 저장된 배열, d는 c배열의 크기  입니다.
@@ -13,16 +13,27 @@ GreedyBetterChange ( M, c, d ) //M은 맞춰야하는 수, c는 M을 구성하�
 }
 
 */
+//2015112120 임성두
 package week1;
+
+import java.util.Scanner;
 
 public class no2_2{
 	public static void main(String[] args) {
 
+		Scanner sc=new Scanner(System.in);
+		int d=sc.nextInt();// 배열의 크기를 입력받습니다
 		int M=40;
-		int []c= {25,20,10,5,1};
-		int []k= {0,0,0,0,0};// 나눗셈의 몫을 저장할 배열로 모두 0으로 초기화 했습니다
+		
+		int []c=new int[d];
+		int []k=new int[d];
+		for(int i=0;i<d;i++) {
+			c[i]=sc.nextInt();
+			k[i]=0;
+		}
+		
 		int result=0;// c배열을 요소 얼마나 많이 사용해야 M을 만들수 있는지에 대한 결과 값입니다.
-		int d=c.length;
+	
 		for(int i=0;i<d;i++) {
 			k[i]=M/c[i];// 몫을 구해 저장한 후,
 			M-=k[i]*c[i];// M에서 M에서 c[i]로 뺄수있는 최대로 빼는 것 입니다.

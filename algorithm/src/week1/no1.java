@@ -1,4 +1,4 @@
-//2015112120 임성두
+
 
 /*
 유사코드
@@ -15,7 +15,7 @@ print(sum/(i+1))
 
 
  */
-
+//2015112120 임성두
 package week1;
 import java.util.Scanner;
 public class no1 {
@@ -30,7 +30,6 @@ public class no1 {
 			if(ar[i]==0) {// 0을 입력시 배열입력을 더이상 받지 않습니다.
 				break;}
 		}
-		
 		
 		System.out.println("Avr 출력");
 		float sum=0;// 배열의 값들을 더하여 저장할 변수 입니다
