@@ -9,6 +9,7 @@
 	Hello world!  
 </h1>
 
+<%out.print("hello docker!!!!\n"); %>
 <P>  The time on the server is ${serverTime}. </P>
 <a href="/judge/io">io</a>
 </body>

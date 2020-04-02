@@ -2,12 +2,13 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="이게 안" key="selection"/>
+		<item value="1." key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="1."/>
 			<item value="이게 안"/>
 			<item value="maria"/>
 			<item value="getcol"/>
@@ -22,7 +23,6 @@
 			<item value="webproject"/>
 			<item value="getPassword"/>
 			<item value="login"/>
-			<item value="member"/>
 		</list>
 		<list key="replacehistory">
 			<item value="practiceweb"/>
